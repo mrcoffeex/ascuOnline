@@ -149,7 +149,7 @@
 
         </script>
         </span>
-        &nbsp;|&nbsp;<span style="color: #bdbdbd;">Today is <?php $date = new DateTime();
+        &nbsp;|&nbsp;<span style="color: #fff;">Today is <?php $date = new DateTime();
                     echo $date->format('l, F jS, Y'); ?></span>
         </b>
         <br><br><br><br><br>
