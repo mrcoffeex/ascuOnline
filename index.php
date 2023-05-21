@@ -118,7 +118,7 @@
         </div>
         
         <b><center>
-        <span id="tick2" style="color: #bdbdbd;">   
+        <span id="tick2" style="color: #fff;">   
 
         <script>
                         function show2(){
